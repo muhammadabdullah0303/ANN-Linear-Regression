@@ -1,0 +1,4 @@
+digraph model {
+	size="10,10"
+	dpi=300
+}
